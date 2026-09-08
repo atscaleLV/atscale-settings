@@ -8,7 +8,7 @@ overrides:
     "aggregates.create.withDistinctCounts.queryLevel.enabled": "true"
     "connection.pool.user.idleConnectionDuration": "6 hours"
     "connection.pool.idleConnectionDuration": "6 hours"  
-    "query.result.max_rows": "5" 
+    "query.result.max_rows": "91000" 
     "sml.environment.variables" : 
       LABEL=Postgres
       CONNECTION="dev"
